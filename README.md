@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of nearata/lang-italian.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/lang-italian) or the [upstream repository](https://github.com/Nearata/lang-italian).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/nearata-lang-italian/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0`
+**25** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/nearata-lang-italian/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.11` | 2020-02-11 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.11) |
+| `v0.1.0-beta.13` | 2020-06-25 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.13) |
+| `v0.1.0-beta.14` | 2020-10-20 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.14) |
+| `v0.1.0-beta.14.1` | 2020-10-20 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.14.1) |
+| `v0.1.0-beta.14.2` | 2020-10-22 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.14.2) |
+| `v0.1.0-beta.14.3` | 2020-11-04 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.14.3) |
+| `v0.1.0-beta.15` | 2020-12-23 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.15) |
+| `v0.1.0-beta.15.1` | 2021-01-12 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.15.1) |
+| `v0.1.0-beta.15.2` | 2021-03-05 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.15.2) |
+| `v0.1.0-beta.16` | 2021-03-15 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.16) |
+
+[View all 25 versions](https://github.com/flarchive/nearata-lang-italian/tags)
 
 Catalog entry: [packages/nearata-lang-italian.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-lang-italian.json)
 
