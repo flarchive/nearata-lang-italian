@@ -1,8 +1,14 @@
-# nearata/lang-italian (Archive)
+# nearata-lang-italian (Archive)
 
-> **Read-only archive of released versions of nearata/lang-italian.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/lang-italian) or the [upstream repository](https://github.com/Nearata/lang-italian).
+> **Read-only archive of released versions for nearata/flarum-ext-italian, nearata/lang-italian.** Not for installation: use Packagist or the [upstream repository](https://github.com/Nearata/lang-italian).
 
-**25** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/nearata-lang-italian/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.0`
+**25** versions archived · Latest: [`v0.1.0-beta.11`](https://github.com/flarchive/nearata-lang-italian/tree/archive/v0.1.0-beta.11) (stable: [`v1.0.0`](https://github.com/flarchive/nearata-lang-italian/tree/archive/v1.0.0)) · License: `MIT` · Flarum: `^0.1.0-beta.11`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`nearata/flarum-ext-italian`](https://packagist.org/packages/nearata/flarum-ext-italian)
+- [`nearata/lang-italian`](https://packagist.org/packages/nearata/lang-italian)
 
 ## Archived Versions
 
@@ -21,7 +27,10 @@
 
 [View all 25 versions](https://github.com/flarchive/nearata-lang-italian/tags)
 
-Catalog entry: [packages/nearata-lang-italian.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-lang-italian.json)
+## Catalog entries
+
+- [`nearata/flarum-ext-italian`](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-italian.json)
+- [`nearata/lang-italian`](https://github.com/flarchive/archive-index/blob/main/packages/nearata-lang-italian.json)
 
 ## About this archive
 
